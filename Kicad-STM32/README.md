@@ -1,5 +1,6 @@
 # Kicad-STM32
 
+This kicad library is from [piit79/Kicad-STM32](https://github.com/piit79/Kicad-STM32), only take STM32F4x1.
 
 STM32 library for Kicad : BluePill and BlackPill
 
